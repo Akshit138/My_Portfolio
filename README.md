@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website showcasing my background, technical skills, projects, and interactive features. The website includes a live weather checker and an AI-powered portfolio chatbot integrated with the Groq API.
 
-**Live Website:** [View Portfolio](https://portfolio-sandy-two-2h1yeodf5u.vercel.app)
+**Live Website:** [View Portfolio](https://myportfolio-cv7dwvwuo-coders-2159.vercel.app/)
 
 ## Overview
 
