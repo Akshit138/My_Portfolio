@@ -1,4 +1,4 @@
-# Harsh Jangid — Personal Portfolio
+# Akshit — Personal Portfolio
 
 A responsive personal portfolio website showcasing my background, technical skills, projects, and interactive features. The website includes a live weather checker and an AI-powered portfolio chatbot integrated with the Groq API.
 
@@ -216,7 +216,7 @@ The main application files can be edited as follows:
 
 **Harsh Jangid**
 
-- **GitHub:** [HARSH1-rgb](https://github.com/HARSH1-rgb)
+- **GitHub:** [Akshit](https://github.com/Akshit138)
 - **Portfolio:** [Live Website](https://portfolio-sandy-two-2h1yeodf5u.vercel.app)
 - **Email:** harhsjangid915@gmail.com
 
