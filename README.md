@@ -214,11 +214,11 @@ The main application files can be edited as follows:
 
 ## Author
 
-**Harsh Jangid**
+**Akshit**
 
 - **GitHub:** [Akshit](https://github.com/Akshit138)
 - **Portfolio:** [Live Website](https://portfolio-sandy-two-2h1yeodf5u.vercel.app)
-- **Email:** harhsjangid915@gmail.com
+- **Email:** Akshit
 
 ## License
 
