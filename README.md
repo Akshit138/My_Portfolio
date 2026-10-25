@@ -141,7 +141,7 @@ Using Vercel's development environment allows the `/api/chat` serverless endpoin
 
 The portfolio is deployed on Vercel.
 
-**Live deployment:** [https://portfolio-sandy-two-2h1yeodf5u.vercel.app](https://portfolio-sandy-two-2h1yeodf5u.vercel.app)
+**Live deployment:** [https://portfolio-sandy-two-2h1yeodf5u.vercel.app](https://myportfolio-cv7dwvwuo-coders-2159.vercel.app)
 
 To deploy your own copy:
 
@@ -217,8 +217,8 @@ The main application files can be edited as follows:
 **Akshit**
 
 - **GitHub:** [Akshit](https://github.com/Akshit138)
-- **Portfolio:** [Live Website](https://portfolio-sandy-two-2h1yeodf5u.vercel.app)
-- **Email:** Akshit
+- **Portfolio:** [Live Website](https://myportfolio-cv7dwvwuo-coders-2159.vercel.app)
+- **Email:** AkshitChaudary7@gmail.com
 
 ## License
 
